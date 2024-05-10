@@ -1,0 +1,13 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-top: 30px;
+  width: 30%;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  margin-right: 10px;
+}
